@@ -1,6 +1,6 @@
 # Welcome to Growrk!
 
-![Growrk Banner](https://github.com/growrk/.github/assets/59129958/8fc94d99-fbee-48fd-b69c-65a27c56bb7e)
+![Growrk Banner](https://github.com/growrk/.github/assets/59129958/8f25d460-2d3d-4ae2-9232-82c98e7011d5)
 
 ## About Us
 
