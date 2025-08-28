@@ -16,4 +16,5 @@ Closes #
 
 ## ⚠️ Exceptions
 - [ ] Loom link is not needed
+- [ ] Release Requirements are not needed
 - [ ] Test files are not needed
